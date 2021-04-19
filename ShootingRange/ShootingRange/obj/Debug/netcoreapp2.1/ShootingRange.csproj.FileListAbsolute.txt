@@ -1,0 +1,11 @@
+C:\папка\С# project\-shooting-range.git\ShootingRange\ShootingRange\bin\Debug\netcoreapp2.1\ShootingRange.deps.json
+C:\папка\С# project\-shooting-range.git\ShootingRange\ShootingRange\bin\Debug\netcoreapp2.1\ShootingRange.runtimeconfig.json
+C:\папка\С# project\-shooting-range.git\ShootingRange\ShootingRange\bin\Debug\netcoreapp2.1\ShootingRange.runtimeconfig.dev.json
+C:\папка\С# project\-shooting-range.git\ShootingRange\ShootingRange\bin\Debug\netcoreapp2.1\ShootingRange.dll
+C:\папка\С# project\-shooting-range.git\ShootingRange\ShootingRange\bin\Debug\netcoreapp2.1\ShootingRange.pdb
+C:\папка\С# project\-shooting-range.git\ShootingRange\ShootingRange\obj\Debug\netcoreapp2.1\ShootingRange.csprojAssemblyReference.cache
+C:\папка\С# project\-shooting-range.git\ShootingRange\ShootingRange\obj\Debug\netcoreapp2.1\ShootingRange.csproj.CoreCompileInputs.cache
+C:\папка\С# project\-shooting-range.git\ShootingRange\ShootingRange\obj\Debug\netcoreapp2.1\ShootingRange.AssemblyInfoInputs.cache
+C:\папка\С# project\-shooting-range.git\ShootingRange\ShootingRange\obj\Debug\netcoreapp2.1\ShootingRange.AssemblyInfo.cs
+C:\папка\С# project\-shooting-range.git\ShootingRange\ShootingRange\obj\Debug\netcoreapp2.1\ShootingRange.dll
+C:\папка\С# project\-shooting-range.git\ShootingRange\ShootingRange\obj\Debug\netcoreapp2.1\ShootingRange.pdb
